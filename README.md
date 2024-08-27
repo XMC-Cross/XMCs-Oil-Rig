@@ -128,8 +128,8 @@ Make a new in mapgroupprotto entry - These are not in DayZ vanilla files, they w
   						<point pos="-0.282470 -2.603836 -32.698238" range="1.199951" height="2.000000" />
   						<point pos="-5.425293 -2.606750 -32.570072" range="1.199951" height="2.000000" />
   				</container>
-  				<container name="lootfirearms" lootmax="1">
-  						<category name="firearm" />
+  				<container name="lootfirearms" lootmax="3">
+  						<category name="weapons" />
   						<category name="explosives" />
   						<point pos="4.378663 -8.948456 3.482177" range="1.199951" height="2.000000" />
   						<point pos="-1.204590 -10.462875 -18.098875" range="1.199951" height="2.000000" />
@@ -207,7 +207,7 @@ Make a new in mapgroupprotto entry - These are not in DayZ vanilla files, they w
   						<point pos="9.000244 -1.146820 -3.247072" range="0.890625" height="2.031113" />
   						<point pos="8.575927 -1.146820 -5.078125" range="0.984440" height="2.028023" />
   				</container>
-  				<container name="lootfirearms" lootmax="1">
+  				<container name="lootfirearms" lootmax="3">
   						<category name="explosives" />
   						<category name="weapons" />
   						<point pos="-7.870358 -15.554062 14.052245" range="1.199951" height="1.862556" />
@@ -268,9 +268,9 @@ Make a new in mapgroupprotto entry - These are not in DayZ vanilla files, they w
   						<point pos="-9.230713 -5.612701 -4.340820" range="1.199951" height="2.000000" />
   						<point pos="9.795410 -5.612701 1.856199" range="1.199951" height="2.000000" />
   				</container>
-  				<container name="lootfirearms" lootmax="1">
+  				<container name="lootfirearms" lootmax="3">
   						<category name="explosives" />
-  						<category name="firearm" />
+  						<category name="weapons" />
   						<point pos="-2.041016 -17.003929 -6.854737" range="1.199951" height="2.000023" />
   						<point pos="-7.072265 -17.003929 -8.246338" range="1.199951" height="2.000023" />
   						<point pos="-5.496581 -2.596138 -15.438477" range="1.199951" height="2.000008" />
@@ -328,7 +328,7 @@ Make a new in mapgroupprotto entry - These are not in DayZ vanilla files, they w
   						<point pos="-8.709226 -0.792671 18.036379" range="0.134375" height="0.335938" />
   						<point pos="-0.145512 1.107010 12.318849" range="0.937055" height="2.000000" />
   				</container>
-  				<container name="lootfirearms" lootmax="1">
+  				<container name="lootfirearms" lootmax="2">
   						<category name="explosives" />
   						<category name="weapons" />
   						<point pos="5.640379 -7.888657 17.344482" range="1.199951" height="2.000000" />
@@ -492,7 +492,7 @@ Make a new in mapgroupprotto entry - These are not in DayZ vanilla files, they w
   						<point pos="7.800780 -14.151253 -3.369386" range="0.100000" height="0.250000" />
   						<point pos="7.299072 -14.210243 -0.141847" range="0.155762" height="0.389405" />
   				</container>
-  				<container name="lootweapons" lootmax="5">
+  				<container name="lootweapons" lootmax="8">
   						<category name="weapons" />
   						<category name="explosives" />
   						<point pos="7.395996 -14.210243 17.488770" range="0.156738" height="0.391845" />
