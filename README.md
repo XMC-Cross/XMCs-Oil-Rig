@@ -6,7 +6,7 @@ These changes DO NOT represent DayZ as it is not an Official Location
 
 First thing is to stop the server [You must stop the server if you plan on using the areaflags.map file]
 
-Wait about 5 minutes for your server to stop, once 5 minutes have gone by, upload the areaflags.map
+Wait about 5 minutes for your server to stop, once 5 minutes have gone by, upload the areaflags.map under dayzoffline.chernarusplus (it will override the vanilla one)
 This may take awhile, depending on upload speed.
 While waiting...
 In your file editor (I suggest Visual Studio Code if you don't have one)
